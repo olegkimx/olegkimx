@@ -1,16 +1,18 @@
-## Hi there 👋
+## Introducing Myself 👋
 
-<!--
-**olegkimx/olegkimx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Oleg. A recent graduate from UBC Sauder (BCom) and an incoming Master of Business Analytics (MBAN) student.
 
-Here are some ideas to get you started:
+Querying data using SQL.
+Generate reports and perform ad-hoc data analysis using SQL.
+Developing dashboards on Tableau and Looker Studio.
+Data analysis and reporting using Google Sheets and Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Projects
+
+🛠️ Tools
+Languages: SQL, Python, R
+Database: Google BigQuery, PostgreSQL, MySQL
+Visualization: Tableau, PowerBI
+
+👋🏻 Connect with Me
+Linkedin
