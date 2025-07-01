@@ -2,10 +2,13 @@
 
 Hello, I'm Oleg. A recent graduate from UBC Sauder (BCom) and an incoming Master of Business Analytics (MBAN) student.
 
-Querying data using SQL.
-Generate reports and perform ad-hoc data analysis using SQL.
-Developing dashboards on Tableau and Looker Studio.
-Data analysis and reporting using Google Sheets and Excel.
+GitHub is under maintenance. 
+I will be using GitHub as my portfolio domain. 
+
+1. Querying data using SQL.
+2. Manipulating data using Python.
+3. Developing dashboards on Tableau and PowerBI.
+4. Data analysis and reporting using R.
 
 📚 Projects
 
