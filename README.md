@@ -1,4 +1,4 @@
-## Introducing Myself 👋
+## 👋 Introducing Myself
 
 Hello, I'm Oleg. A recent graduate from UBC Sauder (BCom) and an incoming Master of Business Analytics (MBAN) student.
 
