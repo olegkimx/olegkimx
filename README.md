@@ -9,7 +9,7 @@ I will be using GitHub as my portfolio domain, which is currently under maintena
 3. Developing dashboards on Tableau and PowerBI.
 4. Data analysis and reporting using R.
 
-📚 Projects
+📚 [Projects](https://github.com/olegkimx/UBC-BCom-Projects/blob/021d644301eb04cec16eae849c67ef2171f482ac/README.md)
 
 🛠️ Tools
 Languages: SQL, Python, R
