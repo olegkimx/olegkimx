@@ -2,8 +2,7 @@
 
 Hello, I'm Oleg. A recent graduate from UBC Sauder (BCom) and an incoming Master of Business Analytics (MBAN) student.
 
-GitHub is under maintenance. 
-I will be using GitHub as my portfolio domain. 
+I will be using GitHub as my portfolio domain, which is currently under maintenance. Stay tuned!
 
 1. Querying data using SQL.
 2. Manipulating data using Python.
@@ -19,3 +18,4 @@ Visualization: Tableau, PowerBI
 
 👋🏻 Connect with Me
 Linkedin
+ 
