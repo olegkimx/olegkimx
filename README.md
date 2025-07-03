@@ -4,7 +4,7 @@ Hello, I'm Oleg. A recent graduate from UBC Sauder (BCom) and an incoming Master
 
 I will be using GitHub as my portfolio domain, which is currently under maintenance. Stay tuned!
 
-📚 [Projects](https://github.com/olegkimx/UBC-BCom-Projects/blob/021d644301eb04cec16eae849c67ef2171f482ac/README.md)
+📚 [Personal Projects](https://github.com/olegkimx/personal_projects/blob/c606881c61453db47ca02c366f8e251976277046/README.md)
 
 🛠️ Tools
 - Languages: SQL, Python, R-Studio, MS Excel
