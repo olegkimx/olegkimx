@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oleg Kim
+# 👋 Hi, I'm Oleg
 
 I'm a UBC Sauder BCom graduate and Master of Business Analytics student focused on building data-driven tools that improve workflows, automate manual processes, and turn operational data into better decisions.
 
